@@ -84,8 +84,6 @@ Opción (1/2/3): 1
 📄 Archivo CSV 'red_tramos.csv' generado correctamente.
 🖼️ Imagen 'red.png' generada con éxito.
 ```
-# SCREENSHOT
-![image](https://github.com/user-attachments/assets/745d888c-caba-41f1-9c96-a200f8cdbc47)
 
 
 
