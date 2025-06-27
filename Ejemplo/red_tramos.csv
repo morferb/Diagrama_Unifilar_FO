@@ -1,0 +1,8 @@
+Origen,Destino,Distancia (m)
+OLT1,S1,120
+OLT1,S2,80
+S1,S1A,40
+S1,S1B,30
+S1A,ONT1,5
+S1A,ONT2,5
+S1B,ONT3,10
